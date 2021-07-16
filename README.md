@@ -40,7 +40,7 @@ Step 1: Start steam download
 Step 2: Start Steam-Auto-Shutdown
 
 
-Step 3: Select steam download folder (search for your steam folder, which contains: common, downloading, temp etc., and select the folder 'downloading')
+Step 3: Select steam download folder (search for your steam folder, the one which contains: common, downloading, temp etc.) and select the folder 'downloading'.
 
 
 Note:
