@@ -55,7 +55,7 @@ Note:
 - If download(s) finish(es), your computer will shutdown after 60 seconds.
 
 
-Step 4: Thats it!
+Step 4: Thats it! :D
 
 -----------
 Any ideas how to make it better? or want to give feedback, have problems, suggest feature requests?
