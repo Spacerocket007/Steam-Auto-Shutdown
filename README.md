@@ -58,7 +58,7 @@ Note:
 Step 4: Thats it! :D
 
 -----------
-Any ideas how to make it better? or want to give feedback, have problems, suggest feature requests, ask?
+Any ideas how to make it better? Want to give feedback? Have problems? Want to suggest features? Have a question?
 
 
 Feel free to let me now!
