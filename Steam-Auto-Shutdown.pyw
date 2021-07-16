@@ -54,7 +54,7 @@ def search():
 button2 = Button(root, text="cancel shutdown", bg="white", fg="black", command=cancel, height=5, width=20, font="bold")
 button3 = Button(root, text="canceled", bg="white", fg="black", command=cancel, height=5, width=20, font="bold")
 L1 = Label(root, text="OS will shutdown in 1min!", bg='cornflower blue', fg="red", font="bold", height=2, width=30)
-button1 = Button(root, text="Please select your steam download folder \n \n For example: D:\Windows_Steam\steamapps\downloading ", bg="white", fg="black", command=search,height=10, width=50, font="bold")
+button1 = Button(root, text="Please select your steam download folder", bg="white", fg="black", command=search,height=10, width=50, font="bold")
 L2 = Label(root, text="Waiting for download to finish...", bg="cornflower blue", fg="black", height=2, width=30, font="bold")
 L3 = Label(root, text="ERROR: 404 ", bg="cornflower blue",fg="black", height=2, width=80, font="bold")
 L4 = Label(root, text="Folder is empty! D: Is Steam downloading!? Please restart this App", bg="cornflower blue",fg="black", height=2, width=80, font="bold")
