@@ -58,10 +58,10 @@ Note:
 Step 4: Thats it! :D
 
 -----------
-Upcoming:
+Next Project:
 
 
-Rewrite to a Linux version
+Rewriting this to a Linux version.
 
 -----------
 
