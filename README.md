@@ -24,7 +24,7 @@ Functions:
 How to insall:
 
 
-Requirement: Python 3.0 or newer (tested on Python 3.9)
+Requirements: Python 3.0 or newer (tested on Python 3.9)
 
 
 Download file and open it with Python.
