@@ -87,7 +87,10 @@ Note:
 Step 4: Thats it! :D
 
 -----------
+# Updates:
+- June 16th, 2020 added Linux version
 
+---------
 Any ideas how to make it better? Want to give feedback? Have problems? Want to suggest features? Have a question?
 
 
