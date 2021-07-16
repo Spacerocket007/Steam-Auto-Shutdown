@@ -30,8 +30,6 @@ def destroy():
 
 def search():
     file_path=filedialog.askdirectory()
-
-    #file_path= "D:\Windows_Steam\steamapps\downloading"
     os.listdir(file_path)
     if len(os.listdir(file_path)) == 0:
         L3.place(x="-80", y="80")
@@ -53,8 +51,6 @@ def search():
                      button2.place(x="180", y="80")
                  root.after(5000, loop)
             loop()
-#len(os.listdir(file_path)) == False
-#os.listdir(file_path)
 button2 = Button(root, text="cancel shutdown", bg="white", fg="black", command=cancel, height=5, width=20, font="bold")
 button3 = Button(root, text="canceled", bg="white", fg="black", command=cancel, height=5, width=20, font="bold")
 L1 = Label(root, text="OS will shutdown in 1min!", bg='cornflower blue', fg="red", font="bold", height=2, width=30)
