@@ -58,6 +58,13 @@ Note:
 Step 4: Thats it! :D
 
 -----------
+Upcoming:
+
+
+Rewrite to a Linux version
+
+-----------
+
 Any ideas how to make it better? Want to give feedback? Have problems? Want to suggest features? Have a question?
 
 
