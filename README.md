@@ -1,5 +1,5 @@
 # Steam-Auto-Shutdown
-Who I am?
+Who am I?
 I am not a really coding experienced guy, who wrote this script out of fun and need.
 
 This is a very simple GUI to shutdown your computer after steam download finishes. 
