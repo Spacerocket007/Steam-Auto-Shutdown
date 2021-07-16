@@ -3,6 +3,7 @@ This is a very simple GUI to shutdown your computer after steam download finishe
 Unlike any other program, this one looks for downloading files instead of internet connection. 
 This way if your connection fails, your computer won't shutdown. Works both on Windows 10 (and propably on Linux, not yet tested).
 
+-----
 
 Functions:
 
@@ -12,6 +13,7 @@ Functions:
 
 - cancel shutdown after download finishes
 
+-----
 
 How to insall:
 
@@ -21,6 +23,7 @@ Requirements: Python 3.0 or newer
 
 Download file and open it with Python.
 
+-----
 
 How to use:
 
@@ -44,7 +47,6 @@ Note:
 
 
 - If download finishes, your computer will shutdown after 60 seconds.
-
 
 
 Step 4: Thats it!
