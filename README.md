@@ -21,7 +21,7 @@ Functions:
 
 -----
 
-How to insall:
+How to install:
 
 
 Requirements: Python 3.0 or newer (tested on Python 3.9)
