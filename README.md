@@ -1,14 +1,21 @@
 # Steam-Auto-Shutdown
-Who am I?
-I am not a really coding experienced guy, who wrote this script out of fun and need.
+Who am I?  I am not a really coding experienced guy, who wrote this script out of fun and need.
 
 This is a very simple GUI to shutdown your computer after steam download finishes. 
 Unlike any other program, this one looks for downloading files instead of internet connection. 
-This way if your connection fails, your computer won't shutdown. Works both on Windows 10 (and probably on Linux, not yet tested).
+This way if your connection fails, your computer won't shutdown. Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 
 -----
 
-Functions:
+# Included:
+- LICENSE
+- README.md
+- Steam-Auto-Shutdown-Linux.py <-- For Linux users, only run this
+- Steam-Auto-Shutdown.pyw <-- For Windows users, only run this
+
+-----
+
+# Functions:
 
 
 - Shutdown after download finishes
@@ -21,17 +28,39 @@ Functions:
 
 -----
 
-How to install:
+# How to install for Windows 10:
 
 
 Requirements: Python 3.0 or newer (tested on Python 3.9)
 
-
-Download file and open it with Python.
+ 
+Step 1: Download Steam-Auto-Shutdown.pyw and open it with Python.
 
 -----
 
-How to use:
+# How to install for Linux (Ubuntu 21.04):
+
+
+Requriements: 
+- Python 3.0 or newer (tested on Python 3.9)
+- python3-tk (to install simply type in Terminal: sudo apt-get install python3-tk)
+
+
+Step 1: Download Steam-Auto-Shutdown-Linux.py and move it to any location (in a way that you easily find it again)
+
+
+Step 2: Run Terminal and navigate to the file with cd -> for example: cd /home/name/Documents
+
+
+Step 3: Paste this line to give the file read and write permissions: chmod +x Steam-Auto-Shutdown-Linux.py
+
+
+Step 4: Run file with: python3 Steam-Auto-Shutdown-Linux.py
+
+
+---------
+
+# How to use:
 
 
 Step 1: Start steam download
@@ -56,12 +85,6 @@ Note:
 
 
 Step 4: Thats it! :D
-
------------
-Next Project:
-
-
-Rewriting this to a Linux version.
 
 -----------
 
