@@ -1,7 +1,7 @@
 # Steam-Auto-Shutdown
-Who am I?  I am not a really coding experienced guy, who wrote this script out of fun and need.
+Who am I?  I am a not really coding experienced guy, who wrote this script out of fun and need.
 
-This is a very simple GUI to shutdown your computer after steam download finishes. 
+This is a very simple software to shutdown your computer after steam download finishes. 
 Unlike any other program, this one looks for downloading files instead of internet connection. 
 This way if your connection fails, your computer won't shutdown. Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 
