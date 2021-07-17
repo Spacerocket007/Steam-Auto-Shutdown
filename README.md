@@ -47,7 +47,7 @@ Requriements:
 - python3-tk (to install simply type in Terminal: sudo apt-get install python3-tk)
 
 
-Step 1: Download Steam-Auto-Shutdown-Linux.py and move it to any location (in a way that you easily find it again)
+Step 1: Download Steam-Auto-Shutdown-Linux.py and move it to any location (in a way that you can easily find it again)
 
 
 Step 2: Run Terminal and navigate to the file with cd -> for example: cd /home/name/Documents
