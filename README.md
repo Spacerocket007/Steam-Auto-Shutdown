@@ -16,7 +16,7 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 
 -----
 
-# Functions:
+# Features:
 
 
 - Shutdown after downloads finish
@@ -91,6 +91,7 @@ Step 4: Thats it! :D
 # Updates:
 - July 16th, 2021 added Linux version
 - July 17th, 2021 changed design
+- July 17th, 2021 refer to release v2.0
 
 ---------
 Any ideas how to make it better? Want to give feedback? Have problems? Want to suggest features? Have a question?
