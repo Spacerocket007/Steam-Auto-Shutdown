@@ -27,6 +27,14 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 
 - Select able steam download (downloading) folder
 
+
+- Toggle On/Off button
+
+- Exit button
+
+
+- Refresh indicator
+
 -----
 
 # How to install for Windows 10:
