@@ -67,7 +67,7 @@ Step 4: Run file with: python3 Steam-Auto-Shutdown-Linux.py
 Step 1: Start steam download
 
 
-Step 2: Start Steam-Auto-Shutdown
+Step 2: Start Steam-Auto-Shutdown (If you are on Linux start Steam-Auto-Shutdown-Linux.py ; If you are on Windows start Steam-Auto-Shutdown.pyw)
 
 
 Step 3: Select steam download folder (search for your steam folder, the one which contains: common, downloading, temp etc.) and select the folder 'downloading'.
