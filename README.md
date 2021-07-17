@@ -3,7 +3,7 @@ Who am I?  I am a not really coding experienced guy, who wrote this script out o
 
 This is a very simple software to shutdown your computer after steam downloads finish. 
 Unlike any other program, this one looks for downloading files instead of internet connection. 
-This way if your connection fails, your computer won't shutdown. Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
+This way if your connection fails, your computer will shutdown. Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 
 -----
 
