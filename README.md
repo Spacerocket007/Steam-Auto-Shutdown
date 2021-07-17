@@ -22,7 +22,7 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 - Shutdown after downloads finish
 
 
-- Cancel shutdown after downloads finish
+- Cancel shutdown button after shutdown has been initiated.
 
 
 - Selectable steam download(downloading) folder
@@ -70,7 +70,7 @@ Step 1: Start steam download
 Step 2: Start Steam-Auto-Shutdown (If you are on Linux start Steam-Auto-Shutdown-Linux.py ; If you are on Windows start Steam-Auto-Shutdown.pyw)
 
 
-Step 3: Select steam download folder (search for your steam folder, the one which contains: common, downloading, temp etc.) and select the folder 'downloading'.
+Step 3: Select steam downloading folder (search for your steam folder, the one which contains: common, downloading, temp etc. and select the folder 'downloading').
 
 
 Note:
