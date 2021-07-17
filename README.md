@@ -8,7 +8,7 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 -----
 
 # Included:
--.github/ISSUE_TEMPLATE
+- github/ISSUE_TEMPLATE
 - LICENSE
 - README.md
 - Steam-Auto-Shutdown-Linux.py <-- For Linux users, only run this
