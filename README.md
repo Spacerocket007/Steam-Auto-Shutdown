@@ -25,7 +25,7 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 - Cancel shutdown after shutdown has been initiated.
 
 
-- Selectable steam download(downloading) folder
+- Select able steam download (downloading) folder
 
 -----
 
