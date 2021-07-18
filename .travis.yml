@@ -9,4 +9,4 @@ install:
   - sudo apt-get install rake
   - sudo apt-get update
 script:
-  - Steam-Auto-Shutdown.py
+  - python Steam-Auto-Shutdown.py
