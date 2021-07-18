@@ -116,4 +116,4 @@ button1.pack(pady=110)
 L7.pack(pady=0)
 L6.place(x="-10", y="0")
 
-root.mainloop()
+root.update()
