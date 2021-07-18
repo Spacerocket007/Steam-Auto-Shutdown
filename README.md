@@ -9,7 +9,7 @@ This is a very simple program to shutdown your computer after steam downloads fi
 Unlike any other program, this one looks for downloading files instead of internet connection. 
 This way if your connection fails, your computer won't shutdown. Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 
------
+------
 
 # Included:
 - github/ISSUE_TEMPLATE
