@@ -109,8 +109,8 @@ L5 = Label(root, text="Computer will shutdown after all downloads finish", bg='#
            height=1, width=40)
 L6 = Label(root, text="Created by https://github.com/Spacerocket007/", bg='grey', fg="white", font="sans 9 bold", height=0,
            width=40)
-L7 = Label(root, text="Steam Auto Shutdown v2.0", bg='grey', fg="white", font="sans 12 bold", height=0, width=20)
-L8 = Label(root, text="v2.0", bg='grey', fg="white", font="sans 9 bold", height=0, width=5)
+L7 = Label(root, text="Steam Auto Shutdown v2.1", bg='grey', fg="white", font="sans 12 bold", height=0, width=20)
+L8 = Label(root, text="v2.1", bg='grey', fg="white", font="sans 9 bold", height=0, width=5)
 L9 = Label(root, text="refreshed", bg='grey', fg="green", font="sans 9 bold", height=0, width=10)
 Status_label = Label(root, text="On!", fg="green", bg='#515252', font="sans 12 bold")
 button1.pack(pady=110)
