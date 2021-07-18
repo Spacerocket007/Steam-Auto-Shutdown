@@ -9,4 +9,4 @@ install:
   - pip3 install --upgrade pip
   - sudo apt-get update
 script:
-  python3 Steam-Auto-Shutdown.py
+  - python3 Steam-Auto-Shutdown.py
