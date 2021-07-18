@@ -106,6 +106,9 @@ Step 4: Thats it! :D
 
 -----------
 # Updates:
+Every update the old release gets replaced with a new one.
+If you wan't older versions, visit releases.
+
 - July 16th, 2021 added Linux version
 - July 17th, 2021 changed design
 - July 17th, 2021 refer to release v2.0
