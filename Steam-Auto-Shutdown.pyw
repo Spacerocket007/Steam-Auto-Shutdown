@@ -89,8 +89,8 @@ def clear():
     root.after(4000, loop)
 
 
-button1 = Button(root, text="Please select your steam download folder", bg="#515252", fg="white", command=search,
-                 height=1, width=35, font="sans 13 bold")
+button1 = Button(root, text="Please select in your steam folder 'downloading'", bg="#515252", fg="white", command=search,
+                 height=1, width=40, font="sans 13 bold")
 button2 = Button(root, text="cancel shutdown", bg="#515252", fg="white", command=cancel, height=3, width=20,
                  font="sans 12 bold")
 button3 = Button(root, text="canceled", bg="#515252", fg="white", command=cancel, height=3, width=20,
