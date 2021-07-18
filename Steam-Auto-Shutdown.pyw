@@ -106,7 +106,7 @@ L4 = Label(root, text="Folder is empty! D: Is Steam downloading!? Please restart
            height=2, width=80, font="sans 12 bold")
 L5 = Label(root, text="Computer will shutdown after all downloads finish", bg='#2a475e', fg="black", font="bold",
            height=1, width=40)
-L6 = Label(root, text="Created by github.com/Spacerocket007", bg='#2a475e', fg="white", font="sans 9 bold", height=0,
+L6 = Label(root, text="Created by https://github.com/Spacerocket007/", bg='#2a475e', fg="white", font="sans 9 bold", height=0,
            width=40)
 L7 = Label(root, text="Steam Auto Shutdown v2.0", bg='#2a475e', fg="white", font="sans 12 bold", height=0, width=40)
 L8 = Label(root, text="v2.0", bg='#2a475e', fg="white", font="sans 9 bold", height=0, width=10)
@@ -114,6 +114,6 @@ L9 = Label(root, text="refreshed", bg='#2a475e', fg="green", font="sans 9 bold",
 Status_label = Label(root, text="On!", fg="green", bg='#515252', font="sans 12 bold")
 button1.pack(pady=110)
 L7.pack(pady=0)
-L6.place(x="-30", y="0")
+L6.place(x="-10", y="0")
 
 root.mainloop()
