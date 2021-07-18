@@ -2,11 +2,12 @@ language: python
 python:
 
 - "3.9"
-
+dist: xenial
+services:
+  - xvfb
+  
 install:
   - sudo apt-get install python3-tk
   - sudo apt-get install rake
-before_script:
-  - export DISPLAY=:0.0
 
 script: python Steam-Auto-Shutdown-Linux.py
