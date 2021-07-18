@@ -10,7 +10,6 @@ addons:
     
 before_install:
   - export DISPLAY=:99.0 
-sudo: required  
 install:
   - sudo apt-get install python3-tk
   - sudo apt-get install rake
