@@ -2,13 +2,15 @@ language: python
 python:
 
 - "3.9"
-
-env:
-  - DISPLAY=:99.0
-
+dist: xenial
+services:
+  - xvfb
+addons:
+  chrome: stable
+    
 before_install:
-  - sh -e /etc/init.d/xvfb start
-  
+  - export DISPLAY=:99.0 
+sudo: required  
 install:
   - sudo apt-get install python3-tk
   - sudo apt-get install rake
