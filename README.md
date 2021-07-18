@@ -1,7 +1,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![Updated Badge](https://badges.pufler.dev/updated/Spacerocket007/Steam-Auto-Shutdown)](https://badges.pufler.dev)
 # Steam-Auto-Shutdown
 Who am I?  I am a not really coding experienced guy who wrote this script out of fun and need.
 
@@ -15,8 +14,9 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 - github/ISSUE_TEMPLATE
 - LICENSE
 - README.md
-- Steam-Auto-Shutdown-Linux.py <-- For Linux users, only run this
-- Steam-Auto-Shutdown.pyw <-- For Windows users, only run this
+- Steam-Auto-Shutdown
+    - Steam-Auto-Shutdown-Linux.py <-- For Linux users, only run this
+    - Steam-Auto-Shutdown.pyw <-- For Windows users, only run this
 
 -----
 
@@ -25,17 +25,13 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 
 - Shutdown after downloads finish
 
-
 - Cancel shutdown after it has been initiated.
 
-
 - Select able steam download (downloading) folder
-
 
 - Toggle On/Off button
 
 - Exit button
-
 
 - Refresh indicator
 
@@ -47,7 +43,13 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 Requirements: Python 3.0 or newer (tested on Python 3.9)
 
  
-Step 1: Download Steam-Auto-Shutdown.pyw and open it with Python.
+Step 1: Download zip and extract all
+
+
+Step 2: Open the folder Steam-Auto-Shutdown-main 
+
+
+Step 3: Open the folder Steam-Auto-Shutdown and run Steam-Auto-Shutdown.pyw with Python.
 
 -----
 
@@ -59,10 +61,13 @@ Requriements:
 - python3-tk (to install simply type in Terminal: sudo apt-get install python3-tk)
 
 
-Step 1: Download Steam-Auto-Shutdown-Linux.py and move it to any location (in a way that you can easily find it again)
+Step 1: Download zip 
 
 
-Step 2: Run Terminal and navigate to the file with cd -> for example: cd /home/name/Documents
+Step 2: Extract all and move it to any location (in a way that you can easily find it again)
+
+
+Step 2: Run Terminal and navigate to Steam-Auto-Shutdown-Linux.py with cd -> for example: cd /home/name/Documents/Steam-Auto-Shutdown-main/Steam-Auto-Shutdown/
 
 
 Step 3: Paste this line to give the file read and write permissions: chmod +x Steam-Auto-Shutdown-Linux.py
