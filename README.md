@@ -104,6 +104,7 @@ Step 4: Thats it! :D
 - July 16th, 2021 added Linux version
 - July 17th, 2021 changed design
 - July 17th, 2021 refer to release v2.0
+- July 18th, 2021 added background
 
 ---------
 Any ideas how to make it better? Want to give feedback? Have problems? Want to suggest features? Have a question?
