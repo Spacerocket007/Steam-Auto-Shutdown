@@ -7,7 +7,7 @@ import sys
 from tkinter import (
     Tk, Button, Label, StringVar, Entry, END,
 )
-
+export DISPLAY=:0.0
 root = Tk()
 root.title("Steam Auto Shutdown")
 root.geometry('550x300')
