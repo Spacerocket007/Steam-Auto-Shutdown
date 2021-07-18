@@ -67,13 +67,13 @@ Step 1: Download zip
 Step 2: Extract all and move it to any location (in a way that you can easily find it again)
 
 
-Step 2: Run Terminal and navigate to Steam-Auto-Shutdown-Linux.py with cd -> for example: cd /home/name/Documents/Steam-Auto-Shutdown-main/Steam-Auto-Shutdown/
+Step 3: Run Terminal and navigate to Steam-Auto-Shutdown-Linux.py with cd -> for example: cd /home/name/Documents/Steam-Auto-Shutdown-main/Steam-Auto-Shutdown/
 
 
-Step 3: Paste this line to give the file read and write permissions: chmod +x Steam-Auto-Shutdown-Linux.py
+Step 4: Paste this line to give the file read and write permissions: chmod +x Steam-Auto-Shutdown-Linux.py
 
 
-Step 4: Run file with: python3 Steam-Auto-Shutdown-Linux.py
+Step 5: Run file with: python3 Steam-Auto-Shutdown-Linux.py
 
 
 ---------
