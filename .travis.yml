@@ -5,7 +5,6 @@ python:
 
 install:
   - sudo apt-get install python3-tk
-  - pip install -r requirements.txt
   - pip3 install --upgrade pip
   - sudo apt-get install rake
   - sudo apt-get update
