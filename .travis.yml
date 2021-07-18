@@ -8,3 +8,5 @@ install:
   - pip3 install --upgrade pip
   - sudo apt-get install rake
   - sudo apt-get update
+script:
+  - pytest
