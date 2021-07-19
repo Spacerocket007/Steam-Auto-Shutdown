@@ -3,7 +3,6 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
 # Steam-Auto-Shutdown
-Who am I?  I am a not really coding experienced guy who wrote this script out of fun and need.
 
 This is a very simple program to shutdown your computer after steam downloads finish. 
 Unlike any other program, this one looks for downloading files instead of internet connection. 
