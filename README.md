@@ -56,7 +56,7 @@ Step 3: Open the folder Steam-Auto-Shutdown and run Steam-Auto-Shutdown.pyw with
 # How to install for Linux (Ubuntu 21.04):
 
 
-Requriements: 
+Requirements: 
 - Python 3.0 or newer (tested on Python 3.9)
 - python3-tk (to install simply type in Terminal: sudo apt-get install python3-tk)
 
