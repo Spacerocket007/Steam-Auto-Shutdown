@@ -4,9 +4,9 @@
 
 # Steam-Auto-Shutdown
 
-This is a very simple program to shutdown your computer after steam downloads finish. 
+This is a very simple and lightweight program to shutdown your computer after steam downloads finish. 
 Unlike any other program, this one detects downloading files instead of checking for internet connection. 
-This way if your connection fails, your computer won't shutdown. Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
+Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 
 ------
 
@@ -30,7 +30,7 @@ This way if your connection fails, your computer won't shutdown. Works both on W
 
 - Select able steam download (downloading) folder
 
-- Toggle On/Off button
+- Toggle On/Off 
 
 - Exit button
 
