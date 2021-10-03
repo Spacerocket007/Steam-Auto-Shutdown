@@ -19,6 +19,7 @@ This way if your connection fails, your computer won't shutdown. Works both on W
     - Steam-Auto-Shutdown.pyw <-- For Windows users, only run this
 
 -----
+![Example](/images/Example.png)
 
 # Features:
 
