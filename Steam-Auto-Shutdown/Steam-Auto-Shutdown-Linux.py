@@ -36,6 +36,8 @@ def search():
     file_path = filedialog.askdirectory()
     if len(os.listdir(file_path)) == 0:
         L7.destroy()
+        L10.destroy()
+        L11.destroy()        
         button1.destroy()
         L3.place(x="-130", y="80")
         L4.place(x="-130", y="120")
@@ -54,6 +56,8 @@ def switch():
     button1.destroy()
     L8.place(x="495", y="0")
     L7.destroy()
+    L10.destroy()
+    L11.destroy()    
     if status:
         Status_label.config(text="Off", fg="red")
         status = False
@@ -112,8 +116,15 @@ L6 = Label(root, text="Created by https://github.com/Spacerocket007/", bg='grey'
 L7 = Label(root, text="Steam Auto Shutdown v2.1", bg='grey', fg="white", font="sans 12 bold", height=0, width=20)
 L8 = Label(root, text="v2.1", bg='grey', fg="white", font="sans 9 bold", height=0, width=5)
 L9 = Label(root, text="refreshed", bg='grey', fg="green", font="sans 9 bold", height=0, width=10)
+L10 = Label(root, text="This is required to show the program where games are downloaded", bg="grey", fg="white", font="sans 8 bold", height=0, width=55)
+Status_label = Label(root, text="On!", fg="green", bg='#515252', font="sans 12 bold")
+L11 = Label(root, text="and once they are grabbed, to turn off your Computer", bg="grey", fg="white", font="sans 8 bold", height=0, width=45)
+Status_label = Label(root, text="On!", fg="green", bg='#515252', font="sans 12 bold")
+button1.pack(pady=110)
 Status_label = Label(root, text="On!", fg="green", bg='#515252', font="sans 12 bold")
 button1.pack(pady=110)
 L7.pack(pady=0)
 L6.place(x="-10", y="0")
+L10.place(x="80", y="150")
+L11.place(x="110", y="170")
 root.mainloop()
