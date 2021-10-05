@@ -28,7 +28,7 @@ Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 
 - Cancel shutdown after it has been initiated.
 
-- Select able steam download (downloading) folder (This is needed to show the program where games are downloaded and once they are grabbed, to turn off your Computer.)
+- Select able steam download (downloading) folder (This is required to show the program where games are downloaded and once they are grabbed, to turn off your Computer.)
 
 - Toggle On/Off (Turns shutdown after download On/Off)
 
