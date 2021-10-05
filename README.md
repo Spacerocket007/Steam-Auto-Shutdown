@@ -106,7 +106,7 @@ Note:
 Step 4: Thats it! :D
 
 -----------
-# Updates:
+# Changelog:
 
 - July 16th, 2021 added Linux version
 - July 17th, 2021 changed design
