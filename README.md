@@ -31,7 +31,7 @@ Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 
 - Select able steam download (downloading) folder (This is required to show the program where games are downloaded and once they are grabbed, to turn off your Computer.)
 
-- Toggle On/Off (Turns shutdown after download On/Off)
+- Shutdown On/Off (Turns shutdown after download On/Off)
 
 - Exit button
 
@@ -111,9 +111,10 @@ Step 4: Thats it! :D
 
 - July 16th, 2021 added Linux version
 - July 17th, 2021 changed design
-- July 17th, 2021 refer to release v2.0
+- July 17th, 2021 see release v2.0
 - July 18th, 2021 added background
 - October 5th, 2021 added a small note to code
+- January 1st, 2022 changed Toggle On/Off -> Shutdown On/Off and fixed bugs
 
 ---------
 Any ideas how to make it better? Want to give feedback? Have problems? Want to suggest features? Have a question?
