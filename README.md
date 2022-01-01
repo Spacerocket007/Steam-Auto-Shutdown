@@ -14,6 +14,7 @@ Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 - github/ISSUE_TEMPLATE
 - LICENSE
 - README.md
+- Example.png
 - Steam-Auto-Shutdown
     - Steam-Auto-Shutdown-Linux.py <-- For Linux users, only run this
     - Steam-Auto-Shutdown.pyw <-- For Windows users, only run this
