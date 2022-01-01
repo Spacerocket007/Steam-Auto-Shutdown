@@ -45,13 +45,20 @@ Works both on Windows 10 and Linux (Ubuntu 21.04 tested)
 Requirements: Python 3.0 or newer (tested on Python 3.9)
 
  
-Step 1: Download zip and extract all
+Step 1: Download latest release (v2.2)
+
+
+Step 2: Extract it and move it to any location (in a way that you can easily find it again)
 
 
 Step 2: Open the folder Steam-Auto-Shutdown-main 
 
 
-Step 3: Open the folder Steam-Auto-Shutdown and run Steam-Auto-Shutdown.pyw with Python.
+Step 3: Run Terminal and navigate to Steam-Auto-Shutdown.pyw with cd -> for example: cd \Users\name\Desktop\Steam-Auto-Shutdown-main\Steam-Auto-Shutdown
+
+
+Step 4: Run file with: python Steam-Auto-Shutdown.pyw
+
 
 -----
 
@@ -63,10 +70,10 @@ Requirements:
 - python3-tk (to install simply type in Terminal: sudo apt-get install python3-tk)
 
 
-Step 1: Download zip 
+Step 1: Download latest release (v2.2)
 
 
-Step 2: Extract all and move it to any location (in a way that you can easily find it again)
+Step 2: Extract it and move it to any location (in a way that you can easily find it again)
 
 
 Step 3: Run Terminal and navigate to Steam-Auto-Shutdown-Linux.py with cd -> for example: cd /home/name/Documents/Steam-Auto-Shutdown-main/Steam-Auto-Shutdown/
